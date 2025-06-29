@@ -2,9 +2,8 @@
 
 ### Morning
 
-- [Troubleshooting Installations][0]
+- Troubleshooting Installations
 - [Intro to the CLI][1]
-- [A super quick intro to Git][4]
 
 ### Afternoon
 
